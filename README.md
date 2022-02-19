@@ -5,3 +5,12 @@
 
     const { name: { age: { occupation } } } = props;
 ```
+
+``` python
+    name = "Kenya"
+
+    print(f'This country is called {name}')
+
+    def to_uppercase():
+        return name.toUpper()
+```
