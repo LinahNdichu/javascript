@@ -86,10 +86,10 @@ function add(num1, num2) {
     return num1 + num2
 ```
 
-| Name     | Email          |
-| -------- | -------------- |
-| John Doe | john@gmail.com |
-| Jane Doe | jane@gmail.com |
+| Name     | Email          | User |
+| -------- | -------------- | ---- |
+| John Doe | john@gmail.com | abc  |
+| Jane Doe | jane@gmail.com | xyz  |
 
 <!-- Task List -->
 
